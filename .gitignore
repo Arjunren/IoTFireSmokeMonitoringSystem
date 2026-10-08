@@ -1,0 +1,8 @@
+.pio/
+.venv/
+__pycache__/
+*.pyc
+.env
+include/device_config.h
+*.pem
+*.key

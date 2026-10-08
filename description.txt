@@ -1,0 +1,1 @@
+Fire and smoke warning prototype is an ESP32 learning project using MQ-2 gas module with 3. 3 V-safe output; heat switch; low-voltage buzzer. It measures MQ-2 signal and publishes validated telemetry over Wi-Fi and TLS MQTT for fire-safety education learners. Includes security, calibration, sensor checks, provisioning, safety notes, field guidance.
